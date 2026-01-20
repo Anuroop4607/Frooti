@@ -147,8 +147,8 @@ body{
 }
 
 .left img{
-  width: 740px;
-  height: 690px;
+  width: 500px;
+  height: 200px;
   justify-content: center;
   align-items: center;
 }
@@ -236,4 +236,5 @@ body{
   color: white;
   text-transform: uppercase;
   pointer-events: none;
+
 }
