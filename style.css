@@ -147,7 +147,7 @@ body{
 }
 
 .left img{
-  width: 400px;
+  width: 500px;
   height: 200px;
   justify-content: center;
   align-items: center;
@@ -238,4 +238,5 @@ body{
   pointer-events: none;
 
 }
+
 
